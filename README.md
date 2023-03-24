@@ -1,6 +1,6 @@
 # Nanum Pen
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
@@ -15,7 +15,7 @@ font-family: 'Nanum Pen';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.css"/>
+<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumPen/main/NanumPen.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumPen/main/NanumPen.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.css
+https://cdn.statically.io/gh/fonts-archive/NanumPen/main/NanumPen.css
 ```
