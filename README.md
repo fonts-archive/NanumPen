@@ -15,7 +15,7 @@ font-family: 'Nanum Pen';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.css" type="text/css"/>
 ```
 
 &nbsp;
