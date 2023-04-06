@@ -36,9 +36,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.ttf') format('truetype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.woff2) format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.woff2') format('woff2');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumPen/NanumPen.ttf') format('truetype');
 }
 ```
